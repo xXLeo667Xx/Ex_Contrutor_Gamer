@@ -49,37 +49,27 @@ Aparelho utilizado para testes.
 - https://www.programiz.com/cpp-programming/online-compiler/
 
 ## Como rodar a aplicação 
-Vocé pode copiar e colar no C++,
-
-## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+Vocé pode copiar e colar no C++.
 
 ## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+não tem.
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
-XML
-...
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
+C++ programiz
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+arand não funcionando.
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
 
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
+📝 funcionamento total de todos os programas
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+Leo vinicius, ohata.
 
 ## Licença
-The MIT License (MIT)
+não tenho.
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ Ano - jogo de adivinhação
